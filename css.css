@@ -1,0 +1,34 @@
+body {
+    font-family: 'Noto Serif', serif;
+    color: gray;
+
+}
+
+header
+{
+  padding-top: 100px;
+  height: 300px;
+  text-align: center;
+}
+
+section 
+{
+  margin-top: 50px;
+}
+
+section img {
+  width: 200px; 
+  height: 200px;
+
+}
+
+section p {
+  text-align: center;
+  margin-top: 10px;
+  
+}
+footer{
+    margin-top: 30px;
+    text-align: center;
+    font-size: 10px;
+}
